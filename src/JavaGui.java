@@ -2925,7 +2925,7 @@ public class JavaGui extends javax.swing.JFrame {
         return sb.toString();
     }
 
-}//class hw3
+}//class CheckBox
 
 class CheckboxListItem {
 
