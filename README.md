@@ -55,7 +55,7 @@ Queries in the application will allow users to
   - Select a certain business in the search results and list all the reviews for that
     business.
 <p align="center">
-  <img width="667" height="549" src="https://raw.githubusercontent.com/TejasShahpuri/Yelp-MongoDB/master/Pics/screenshot.jpg">
+  <img width="667" height="549" src="https://raw.githubusercontent.com/TejasShahpuri/Yelp-MongoDB/master/Pics/screenshot.png">
 </p>
 
 Class project for DS220: Data Management for Data Sciences
